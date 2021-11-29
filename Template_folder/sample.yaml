@@ -1,0 +1,2 @@
+steps:
+- scripts: echo "Hello World! This is a sample pipeline which is from Github Repo"
